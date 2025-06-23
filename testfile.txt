@@ -1,0 +1,8 @@
+Hello from the FileServer!
+This is a test file used to demonstrate
+file transmission over a socket connection.
+
+Each line in this file is part of the content
+that will be sent to the connected client.
+
+End of file.
